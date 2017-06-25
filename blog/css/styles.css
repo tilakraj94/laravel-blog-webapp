@@ -1,0 +1,60 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+.btn-h1-spacing{
+	margin-top: 18px;
+}
+.form-spacing-top{
+	margin-top: 30px;
+}
+.tags-show-btn{
+	margin-top: 20px;
+}
+span.tags-show-span-tag{
+	color: #337ab7;
+}
+
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+
+
+.author-image {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+.author-name {
+	float: left;
+	margin-left: 15px; 
+}
+
+.author-name>h4 {
+	margin: 5px 0px;
+	
+}
+
+.author-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+{
+
+}
+a.blog-cat-tag-links,a.blog-cat-tag-links:visited,a.blog-cat-tag-links:hover, a.blog-cat-tag-links:active {
+    color: white;
+}
+
+#logo{
+	height: 45px;
+    margin-top: 3px;
+    outline: 0px solid #fff; !important
+}
+

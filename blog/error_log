@@ -1,0 +1,47 @@
+[08-Jan-2017 21:34:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/foodq7y4/blogapp/storage/framework/views/af6b0045a9d30a80c19dd552032d46b39ad1cc99.php on line 108
+[08-Jan-2017 21:35:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/foodq7y4/blogapp/storage/framework/views/af6b0045a9d30a80c19dd552032d46b39ad1cc99.php on line 108
+[09-Jan-2017 01:06:26 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 52
+[09-Jan-2017 01:07:44 Asia/Kolkata] PHP Fatal error:  Class 'App\DB' not found in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 53
+[09-Jan-2017 04:51:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 62
+[09-Jan-2017 22:48:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting function (T_FUNCTION) in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 66
+[09-Jan-2017 22:49:43 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\App' not found in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 59
+[09-Jan-2017 22:49:51 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\App' not found in /home/foodq7y4/blogapp/app/Http/Controllers/BlogController.php on line 59
+[10-Jan-2017 22:06:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home/foodq7y4/blogapp/app/Http/Controllers/PagesController.php on line 9
+[10-Jan-2017 22:14:52 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/foodq7y4/blogapp/app/Http/Controllers/PagesController.php on line 21
+[10-Jan-2017 22:36:43 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/foodq7y4/blogapp/app/Http/Controllers/PagesController.php on line 22
+[10-Jan-2017 22:37:05 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/foodq7y4/blogapp/app/Http/Controllers/PagesController.php on line 22
+[10-Jan-2017 22:37:07 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/foodq7y4/blogapp/app/Http/Controllers/PagesController.php on line 22
+[10-Jan-2017 23:08:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/foodq7y4/blogapp/storage/framework/views/804632a2d20ca8c2478d8c092fb3f7f9eab4e1ad.php on line 2
+[12-Jan-2017 13:24:00 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Registered' not found in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 84
+[12-Jan-2017 14:45:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'account' (T_STRING) in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 98
+[12-Jan-2017 14:47:03 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Auth\App\User' not found in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 95
+[12-Jan-2017 14:47:33 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on integer in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 95
+[12-Jan-2017 15:49:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/foodq7y4/blogapp/app/User.php on line 39
+[13-Jan-2017 00:44:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function App\Http\Controllers\index() in /home/foodq7y4/blogapp/app/Http/Controllers/CategoryController.php on line 111
+[13-Jan-2017 23:18:31 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\App\User' not found in /home/foodq7y4/blogapp/app/Http/Controllers/ProfileController.php on line 53
+[13-Jan-2017 23:18:56 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on null in /home/foodq7y4/blogapp/app/Http/Controllers/ProfileController.php on line 55
+[14-Jan-2017 04:11:07 Asia/Kolkata] PHP Fatal error:  Undefined class constant 'close' in /home/foodq7y4/blogapp/storage/framework/views/227d0eb2ff98dfe37fa152c684f528bd9d010e2d.php on line 72
+[14-Jan-2017 05:12:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/foodq7y4/blogapp/storage/framework/views/227d0eb2ff98dfe37fa152c684f528bd9d010e2d.php on line 6
+[14-Jan-2017 05:31:17 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/foodq7y4/blogapp/app/Http/Controllers/ProfileController.php on line 123
+[14-Jan-2017 07:04:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/foodq7y4/blogapp/storage/framework/views/af6171e5d50b282c2bf7af4281d9de1e1db96f37.php on line 70
+[15-Jan-2017 14:23:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/foodq7y4/blogapp/app/Http/Controllers/PostController.php on line 74
+[15-Jan-2017 19:23:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/foodq7y4/blogapp/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php on line 48
+[15-Jan-2017 20:50:56 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Requests\Auth' not found in /home/foodq7y4/blogapp/app/Http/Requests/changePasswordRequest.php on line 16
+[15-Jan-2017 20:50:59 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Requests\Auth' not found in /home/foodq7y4/blogapp/app/Http/Requests/changePasswordRequest.php on line 16
+[15-Jan-2017 22:00:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:02:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:05:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:06:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:06:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:08:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:08:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:08:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/storage/framework/views/44d4a876ab39683dcc30a6207f19a969226094d1.php on line 40
+[15-Jan-2017 22:41:48 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Auth' not found in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/ResetPasswordController.php on line 44
+[15-Jan-2017 23:14:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/ResetPasswordController.php on line 13
+[15-Jan-2017 23:18:14 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Hash' not found in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/ResetPasswordController.php on line 54
+[15-Jan-2017 23:21:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/ResetPasswordController.php on line 55
+[15-Jan-2017 23:21:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/ResetPasswordController.php on line 54
+[16-Jan-2017 02:32:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/foodq7y4/blogapp/app/Http/Controllers/HomeController.php on line 26
+[16-Jan-2017 03:01:42 Asia/Kolkata] PHP Fatal error:  Cannot use App\Notifications\AccountActivation as AccountActivation because the name is already in use in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 14
+[16-Jan-2017 03:02:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/foodq7y4/blogapp/app/Notifications/AccountActivation.php on line 46
+[16-Jan-2017 05:32:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'Session' (T_STRING) in /home/foodq7y4/blogapp/app/Http/Controllers/Auth/RegisterController.php on line 105
